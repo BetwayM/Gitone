@@ -1,2 +1,4 @@
 Notepad++ v6.9 New feature and bug-fixes:
 1.  Add "Folder as Workspace" feature.
+2.  Fix Notepad++ hanging issue while user uses touchscreen to activate Notepad++ window.
+3.  HTML auto-close tag enhancement: Prevent <br>, <hr>, <img>, <link> and <meta> from being closed automatically.
