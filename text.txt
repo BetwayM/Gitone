@@ -1,1 +1,2 @@
 Notepad++ v6.9 New feature and bug-fixes:
+1.  Add "Folder as Workspace" feature.
