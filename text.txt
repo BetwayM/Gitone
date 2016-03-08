@@ -3,3 +3,5 @@ Notepad++ v6.9 New feature and bug-fixes:
 2.  Fix Notepad++ hanging issue while user uses touchscreen to activate Notepad++ window.
 3.  HTML auto-close tag enhancement: Prevent <br>, <hr>, <img>, <link> and <meta> from being closed automatically.
 4.  Project enhancement: Allows user defined extension to associate workspace file. 
+5.  Make behavior of SHIFT+END and SHIFT+HOME more consistent when word wrapping is enabled.
+ 
